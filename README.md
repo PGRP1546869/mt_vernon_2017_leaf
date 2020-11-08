@@ -7,7 +7,7 @@
 `2017_metabolomics.ipynb` contains the complete analysis for the ionomics data set following feature extraction in XCMS Online. 
 
 ## Gene expression
-`2017_geneExpression_PCapproach_apex.ipynb` contains the complete analysis for the transcriptomics data set following QC and alignment. 
+Shell scripts (`00_trim_qc.sh` and `01_align_count.sh`) are provided to show how to RNAseq reads were processed (Trimming, QC, alignments, and count derivations). `2017_geneExpression_PCapproach_apex.ipynb` contains the complete analysis for the transcriptomics data set following QC and alignment. 
 
 ## Leaf shape
 `2017_morphology_analysis.ipynb` contains the complete analysis for the morphometrics data set following a 17-point landmarking procedure. 
