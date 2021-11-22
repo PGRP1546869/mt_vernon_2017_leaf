@@ -17,3 +17,15 @@ Shell scripts (`00_trim_qc.sh` and `01_align_count.sh`) are provided to show how
 
 ## Phenotypic Covariation
 `2017_dataIntegration_PCcorplot.ipynb` contains the complete analysis data integration including some methods and visualizations not reported in the manuscript. The file `2017_treatment_metadata.csv` contains the metadata for this analysis which required all phenotypes be projected into a common sample-name space. These metadata are identical to those used for DESeq2 in `2017_geneExpression_PCapproach_apex.ipynb`.
+
+## License
+
+All scripts are provided for free: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
